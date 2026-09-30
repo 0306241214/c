@@ -1,1 +1,2 @@
-hello world\nXin chao Nguyen Thanh Liem
+hello world
+Xin chao Nguyen Thanh Liem
